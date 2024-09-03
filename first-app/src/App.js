@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -18,7 +18,10 @@ function App() {
           Learn React
         </a>
         <div className="marquee">
-          <p>Welcome to My React App! This is a marquee effect.testing for pull request</p>
+          <p>
+            Welcome to My React App! This is a marquee effect.testing for pull
+            request cloning via git and vs code
+          </p>
         </div>
       </header>
     </div>
